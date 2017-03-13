@@ -1,0 +1,335 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{nty/global/}
+  \entry{ccm}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{note}{Eingesehen am 07.03.2017}
+    \field{title}{de.ccm.net}
+    \verb{url}
+    \verb http://de.ccm.net/contents/465-geschichte-der-festplatte
+    \endverb
+  \endentry
+
+  \entry{hdd}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{note}{Eingesehen am 07.03.2017}
+    \field{title}{de.wikipedia.org}
+    \verb{url}
+    \verb https://de.wikipedia.org/wiki/Festplattenlaufwerk
+    \endverb
+  \endentry
+
+  \entry{gmr}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{note}{Eingesehen am 11.03.2017}
+    \field{title}{de.wikipedia.org}
+    \verb{url}
+    \verb https://de.wikipedia.org/wiki/GMR-Effekt
+    \endverb
+  \endentry
+
+  \entry{epv}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{note}{Eingesehen am 07.03.2017}
+    \field{title}{elektronikpraxis.vogel.de}
+    \verb{url}
+    \verb http://www.elektronikpraxis.vogel.de/speicher/articles/418124/
+    \endverb
+  \endentry
+
+  \entry{pr}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{note}{Eingesehen am 11.03.2017}
+    \field{title}{en.wikipedia.org}
+    \verb{url}
+    \verb https://en.wikipedia.org/wiki/Perpendicular_recording
+    \endverb
+  \endentry
+
+  \entry{img:fibre}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{servershop24.de}
+    \field{title}{Festplatte mit Fibre Channel Anschluss}
+    \verb{url}
+    \verb https://www.servershop24.de/komponenten/festplatten/fibre-channel/hit
+    \verb achi-450-gb-15k-fc-fibre-channel-3-5-festplatte-hard-disk-hus156045vl
+    \verb f400/a-114584/
+    \endverb
+  \endentry
+
+  \entry{img:hdddown}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{https://commons.wikimedia.org/}
+    \field{title}{Festplatte WD740 Raptor SATA Unterseite}
+    \verb{url}
+    \verb https://commons.wikimedia.org/wiki/File:Festplatte_WD740_Raptor_SATA_
+    \verb Unterseite.jpg
+    \endverb
+  \endentry
+
+  \entry{hgsthel}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{note}{Eingesehen am 12.03.2017}
+    \field{title}{Helium Festplatte mit 10 TByte}
+    \verb{url}
+    \verb https://www.heise.de/newsticker/meldung/Helium-Festplatte-mit-10-TByt
+    \verb e-3029805.html
+    \endverb
+  \endentry
+
+  \entry{ctrl}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{note}{Eingesehen am 11.03.2017}
+    \field{title}{Host Bus Adapter}
+    \verb{url}
+    \verb https://de.wikipedia.org/wiki/Host-Bus-Adapter
+    \endverb
+  \endentry
+
+  \entry{clk}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{note}{Eingesehen am 07.03.2017}
+    \field{title}{http://www.computerlexikon.com}
+    \verb{url}
+    \verb http://www.computerlexikon.com/definition-festplatte
+    \endverb
+  \endentry
+
+  \entry{elk}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{note}{Eingesehen am 11.03.2017}
+    \field{title}{http://www.elektronik-kompendium.de/}
+    \verb{url}
+    \verb http://www.elektronik-kompendium.de/sites/com/0610291.htm
+    \endverb
+  \endentry
+
+  \entry{img:idejumper}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{note}{wikimedia.org}
+    \field{title}{IDE Konfiguration Jumper}
+    \verb{url}
+    \verb https://upload.wikimedia.org/wikipedia/commons/9/96/Festplatten_Jumpe
+    \verb r.jpg
+    \endverb
+  \endentry
+
+  \entry{img:lmr}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{note}{http://www.itwissen.info/}
+    \field{title}{Longitudinal Recording}
+    \verb{url}
+    \verb http://www.itwissen.info/lex-images/prinzip-des-longitudinal-recordin
+    \verb g-lmr.png
+    \endverb
+  \endentry
+
+  \entry{img:pr}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{note}{http://www.itwissen.info/}
+    \field{title}{Perpendicular Recording}
+    \verb{url}
+    \verb http://www.itwissen.info/lex-images/prinzip-des-perpendicular-recordi
+    \verb ngs.png
+    \endverb
+  \endentry
+
+  \entry{img:ramac}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{note}{By User RTC on en.wikipedia (Photo by U. S. Army Red River
+  Arsenal) [Public domain], via Wikimedia Commons}
+    \field{title}{Ramac 305}
+    \verb{url}
+    \verb https://upload.wikimedia.org/wikipedia/commons/d/d3/BRL61-IBM_305_RAM
+    \verb AC.jpeg
+    \endverb
+  \endentry
+
+  \entry{img:sas}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{ebay.com}
+    \field{title}{SAS Multiplier Backplane für HP Server}
+    \verb{url}
+    \verb http://i.ebayimg.com/images/g/IxkAAOSw9r1V74Uo/s-l1600.jpg
+    \endverb
+  \endentry
+
+  \entry{hhdd}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Eingesehen am 12.03.2017}
+    \field{title}{Solid-State-Drive}
+    \verb{url}
+    \verb https://en.wikipedia.org/wiki/History_of_hard_disk_drives
+    \endverb
+  \endentry
+
+  \entry{ssd}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Eingesehen am 12.03.2017}
+    \field{title}{Solid-State-Drive}
+    \verb{url}
+    \verb https://de.wikipedia.org/wiki/Solid-State-Drive
+    \endverb
+  \endentry
+
+  \entry{hddprod}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{note}{Eingesehen am 12.03.2017}
+    \field{title}{Solid-State-Drive}
+    \verb{url}
+    \verb https://www.forbes.com/sites/tomcoughlin/2015/01/29/hdd-annual-unit-s
+    \verb hipments-increase-in-2014/#1fe324554e21
+    \endverb
+  \endentry
+
+  \entry{lpbus}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{note}{Eingesehen am 11.03.2017}
+    \field{title}{Vorlesung Betriessysteme und Systemsoftware SS 2016, Prof.
+  Dr. Klaus Wehrle}
+    \verb{url}
+    \verb https://www3.elearning.rwth-aachen.de/ss16/16ss-38942/Lists/Structure
+    \verb dMaterials/Forms/AllItems.aspx
+    \endverb
+  \endentry
+
+  \entry{vid:hdd}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{youtube.com}
+    \field{title}{Wie funktioniert eine Festplatte}
+    \verb{url}
+    \verb https://www.youtube.com/watch?v=z95RIv00wJw
+    \endverb
+  \endentry
+
+  \entry{img:hdd}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{Eingesehen am 11.03.2017}
+    \field{title}{www.bwv-verlag.de/}
+    \verb{url}
+    \verb https://www.bwv-verlag.de/user/design/buchinfos/978-3-8305-3405-1__ab
+    \verb bildungen/978-3-8305-3405-1__abb_2_4__.jpg
+    \endverb
+  \endentry
+
+  \entry{gza}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{Eingesehen am 11.03.2017}
+    \field{title}{www.geizhals.de}
+    \verb{url}
+    \verb https://geizhals.de/seagate-skyhawk-10tb-st10000vx0004-a1479547.html?
+    \verb hloc=at&hloc=de
+    \endverb
+  \endentry
+
+  \entry{gzb}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{Eingesehen am 11.03.2017}
+    \field{title}{www.geizhals.de}
+    \verb{url}
+    \verb https://geizhals.de/seagate-barracuda-compute-5tb-st5000lm000-a152194
+    \verb 0.html?hloc=at&hloc=de
+    \endverb
+  \endentry
+
+  \entry{gzc}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{Eingesehen am 11.03.2017}
+    \field{title}{www.geizhals.de}
+    \verb{url}
+    \verb https://geizhals.de/toshiba-mk2529gsg-250gb-a404772.html?hloc=at&hloc
+    \verb =de
+    \endverb
+  \endentry
+
+  \entry{pr1}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{Eingesehen am 11.03.2017}
+    \field{title}{www.itwissen.info}
+    \verb{url}
+    \verb http://www.itwissen.info/Perpendicular-Recording-perpendicular-magnet
+    \verb ic-recording-PMR.html
+    \endverb
+  \endentry
+
+  \entry{nbp}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{Eingesehen am 11.03.2017}
+    \field{title}{www.nobelprize.org}
+    \verb{url}
+    \verb https://www.nobelprize.org/nobel_prizes/physics/laureates/2007/press-
+    \verb ty.html
+    \endverb
+  \endentry
+\endsortlist
+\endinput
